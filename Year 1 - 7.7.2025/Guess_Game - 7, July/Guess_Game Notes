@@ -1,0 +1,15 @@
+Project: Number Guessing Game  
+Date: 7 July 2025  
+
+Concepts used:
+- while loops
+- if/elif/else conditions
+- input validation
+- random number generation
+- variables and counters
+
+What I learned:
+I built a working number guessing game that tells the player if their guess is too high or too low. 
+Later, I added a limit of 5 tries and printed how many attempts it took. 
+I learned how to use while loops, conditions, and how to break out when the game is won.
+I found while loops the hardest to keep in my head.
