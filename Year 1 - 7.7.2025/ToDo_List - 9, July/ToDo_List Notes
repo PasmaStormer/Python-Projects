@@ -1,0 +1,20 @@
+Project: To-Do List App  
+Date: 7 July 2025  
+
+Concepts used:
+- Lists
+- while loops
+- if/elif/else for menu options
+- `append()`, `remove()`, and `for` loops
+- User input and input validation basics
+
+What I learned:
+This was my first multi-option program. 
+I created a menu that runs in a loop and lets the user add tasks, view all tasks, and remove a task. 
+I learned how to store tasks in a list and interact with it using `append()` and `remove()`. 
+I also practiced looping through lists with `for` loops and handling user choices using `if/elif`.
+
+Possible improvements:
+- Input validation for task removal
+- Numbering tasks in the list
+- Saving tasks to a file so they don't disappear after quitting
