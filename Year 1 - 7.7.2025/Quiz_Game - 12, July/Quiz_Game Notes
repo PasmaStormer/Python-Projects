@@ -1,0 +1,25 @@
+Project: Quiz Game  
+Date: 12 July 2025  
+
+Concepts used:
+- Functions (`def`, `return`, parameters)
+- Lists (to store answer choices)
+- Loops (`for` to show options, `while` to validate input)
+- Input validation (`isdigit()`, range checks)
+- if/else conditions
+- f-strings for formatted printing
+
+What I learned:
+This was my biggest project so far. 
+I first made it with a lot of help from GPT. 
+It involved many different concepts like loops, lists, and input validation all working together, which felt overwhelming at first.
+
+I later decided to rebuild the entire quiz **without help**, to prove to myself I actually understood how it all fits together. 
+I made a `greet_user()` function, an `ask_question()` function with input checking, and a `run_quiz()` function that totals the score and shows the result.
+
+I now understand:
+- Why we use `+=` instead of just `+`
+- Why we use `.isdigit()` to avoid errors when converting input
+- How to return values and use them in another function
+
+Next time, I’ll try adding feedback after each answer and maybe even randomizing the questions.
